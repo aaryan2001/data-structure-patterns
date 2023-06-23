@@ -1,0 +1,52 @@
+﻿  Main.cpp
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(153,8): error C2535: 'void List<T>::remove(const T &) noexcept': member function already defined or declared
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(107,7): message : see declaration of 'List<T>::remove'
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(208,2): message : see reference to class template instantiation 'List<T>' being compiled
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(182,11): error C2535: 'const T &List<T>::operator [](size_t) const': member function already defined or declared
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(136,11): message : see declaration of 'List<T>::operator []'
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(192,11): error C2535: 'DoublyLinkedListIterator<T> List<T>::begin(void) noexcept const': member function already defined or declared
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(146,11): message : see declaration of 'List<T>::begin'
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(196,11): error C2535: 'DoublyLinkedListIterator<T> List<T>::end(void) noexcept const': member function already defined or declared
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(150,11): message : see declaration of 'List<T>::end'
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(111,4): error C2065: 'available': undeclared identifier
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(112,3): error C2760: syntax error: '{' was unexpected here; expected 'expression'
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(112,3): error C2760: syntax error: '{' was unexpected here; expected ':'
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(113,4): error C3878: syntax error: unexpected token 'if' following 'expression'
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(113,4): message : error recovery skipped: 'if ( identifier  . . . identifier'
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(113,32): error C2760: syntax error: ')' was unexpected here; expected ';'
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(113,32): error C3878: syntax error: unexpected token ')' following 'expression_statement'
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(113,32): message : error recovery skipped: ')'
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(157,4): error C2065: 'available': undeclared identifier
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(158,3): error C2760: syntax error: '{' was unexpected here; expected 'expression'
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(158,3): error C2760: syntax error: '{' was unexpected here; expected ':'
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(159,4): error C3878: syntax error: unexpected token 'if' following 'expression'
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(159,4): message : error recovery skipped: 'if ( identifier  . . . identifier'
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(159,32): error C2760: syntax error: ')' was unexpected here; expected ';'
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(159,32): error C3878: syntax error: unexpected token ')' following 'expression_statement'
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(159,32): message : error recovery skipped: ')'
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(153,8): error C2535: 'void List<std::string>::remove(const T &) noexcept': member function already defined or declared
+          with
+          [
+              T=std::string
+          ]
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(107,7): message : see declaration of 'List<std::string>::remove'
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\Main.cpp(12,13): message : see reference to class template instantiation 'List<std::string>' being compiled
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(182,11): error C2535: 'const T &List<T>::operator [](size_t) const': member function already defined or declared
+          with
+          [
+              T=std::string
+          ]
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(136,11): message : see declaration of 'List<std::string>::operator []'
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(192,11): error C2535: 'DoublyLinkedListIterator<T> List<T>::begin(void) noexcept const': member function already defined or declared
+          with
+          [
+              T=std::string
+          ]
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(146,11): message : see declaration of 'List<std::string>::begin'
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(196,11): error C2535: 'DoublyLinkedListIterator<T> List<T>::end(void) noexcept const': member function already defined or declared
+          with
+          [
+              T=std::string
+          ]
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\List.h(150,11): message : see declaration of 'List<std::string>::end'
+C:\Users\aarya\OneDrive\Desktop\DSP\Exam\FinalExam\FinalExam\Main.cpp(113): fatal  error C1075: '{': no matching token found
