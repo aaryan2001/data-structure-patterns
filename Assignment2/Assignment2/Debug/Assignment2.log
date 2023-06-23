@@ -1,0 +1,9 @@
+﻿  CharacterFrequencyIterator.cpp
+C:\Users\aarya\OneDrive\Desktop\DSP\Assignments\Assignment2\Ass2\Sol\Assignment2\Assignment2\CharacterFrequencyIterator.cpp(26,30): warning C4267: 'argument': conversion from 'size_t' to 'unsigned char', possible loss of data
+  CharacterMap.cpp
+C:\Users\aarya\OneDrive\Desktop\DSP\Assignments\Assignment2\Ass2\Sol\Assignment2\Assignment2\CharacterMap.cpp(6,55): error C2572: 'CharacterMap::CharacterMap': redefinition of default argument: parameter 1
+C:\Users\aarya\OneDrive\Desktop\DSP\Assignments\Assignment2\Ass2\Sol\Assignment2\Assignment2\CharacterMap.h(17): message : see declaration of 'CharacterMap::CharacterMap'
+C:\Users\aarya\OneDrive\Desktop\DSP\Assignments\Assignment2\Ass2\Sol\Assignment2\Assignment2\CharacterMap.cpp(6,78): error C2572: 'CharacterMap::CharacterMap': redefinition of default argument: parameter 2
+C:\Users\aarya\OneDrive\Desktop\DSP\Assignments\Assignment2\Ass2\Sol\Assignment2\Assignment2\CharacterMap.h(17): message : see declaration of 'CharacterMap::CharacterMap'
+  Main.cpp
+  Generating Code...
