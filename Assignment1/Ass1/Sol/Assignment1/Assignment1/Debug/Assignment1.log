@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  Matrix3x3.cpp
+  Polygon.cpp
+  Vector3D.cpp
+  Generating Code...
+Matrix3x3.obj : error LNK2019: unresolved external symbol "public: class Vector3D __thiscall Vector3D::operator=(class Vector3D const &)const " (??4Vector3D@@QBE?AV0@ABV0@@Z) referenced in function "public: __thiscall Matrix3x3::Matrix3x3(class Vector3D const &,class Vector3D const &,class Vector3D const &)" (??0Matrix3x3@@QAE@ABVVector3D@@00@Z)
+C:\Users\aarya\OneDrive\Desktop\DSP\Assignments\Ass1\Sol\Assignment1\Debug\Assignment1.exe : fatal error LNK1120: 1 unresolved externals
